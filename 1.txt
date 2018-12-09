@@ -1,0 +1,6 @@
+NetHogs version 0.8.5-51-g326305e
+    PID USER   PROGRAM  DEV   SENT      RECEIVED       
+ 25453 ludal enp0s3      40.177    1620.021 KB    
+ 1675 root enp0s3      20.381      34.223 KB    
+? root        0.000       0.000 KB    
+  TOTAL               60.558    1654.243 
